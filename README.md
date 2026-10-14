@@ -3,7 +3,7 @@
 Information Technology student at **Manipal Institute of Technology** and aspiring web developer, building clean, simple and useful things one project at a time.
 
 - 📍 Bengaluru, India
-- 🌱 Learning web technologies, data structures and databases
+- 🌱 Learning how to build Scalable Products.
 - 💼 Open to internships
 - 🏎️ Outside code: F1, travel, reading, gaming and the gym
 
